@@ -1,2 +1,2 @@
 # IOS-Android-Game-OneMoreLine
-A personal project to practise developing games, I re-create a popular mobile game OneMoreLine
+A completed personal project to practise game development, I re-create a popular mobile game OneMoreLine
